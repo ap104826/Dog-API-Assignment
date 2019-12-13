@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif, Arial;
+  }
+  
+  .container{
+    max-width: 500px;
+    margin:0 auto;
+  }
+  
+  .hidden{
+    display:none;
+  }
+  
+  input{
+    width:110px;
+  }
